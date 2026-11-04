@@ -1,0 +1,26 @@
+Font distributed with pygame-ce 2.5.6: pygame/freesansbold.ttf
+
+The following values were read from the installed font's name table:
+
+Font family: FreeSans
+Copyright: Copyright 2002 Free Software Foundation.
+License description: The use of this font is granted subject to GNU General Public License.
+License URL: http://www.gnu.org/copyleft/gpl.html
+
+The embedded metadata does not specify a GPL version.
+Font version metadata: $Revision: 0.4 $
+
+Source package:
+https://github.com/pygame-community/pygame-ce/tree/2.5.6
+https://github.com/pygame-community/pygame-ce/blob/2.5.6/src_py/freesansbold.ttf
+
+Current GNU FreeFont upstream licensing page:
+https://www.gnu.org/software/freefont/license.html
+An unchanged copy is supplied as FREEFONT-UPSTREAM-LICENSE.html, alongside
+GPL-2.0.txt and GPL-3.0.txt from GNU. The current page contains GPL-3.0-or-later
+terms and a font-embedding exception. The bundled historical font metadata
+does not identify a version-specific exception, so that association has not
+been assumed here.
+
+This is a third-party font, separate from the original game code and
+procedural assets covered by BELOW THE SIGNAL's MIT License.
